@@ -1,0 +1,9 @@
+{
+    "name": "swearjar",
+    "version": "0.0.1",
+    "description": "SwearJar",
+    "dependencies": {
+        "swearjar-extended": "0.2.0",
+        "file-system": "2.2.2"
+    }
+}
